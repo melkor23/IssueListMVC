@@ -1,0 +1,10 @@
+{
+    "apiServer":"https://localhost:44349/api",
+
+    "authenticationServer":"https://localhost:44349/token",
+
+    "apiUsers":"https://jsonplaceholder.typicode.com/users",
+
+    "wsServer":"ws://localhost:8182"
+
+}

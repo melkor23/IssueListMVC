@@ -1,0 +1,39 @@
+{
+    "welcomeMsg": "Bienvenido a tu aplicación Vue.js",
+    "guide": "Para una guía y recetas sobre cómo configurar / personalizar este proyecto,",
+    "checkout": "revisar la",
+    "plugins": "Plugins de CLI instalados",
+    "links": "Enlaces esenciales",
+    "ecosystem": "Ecosistema",
+    "delete":"Eliminar",
+    "deleteIssue":"Issue eliminado",
+    "buttonIssueAdd":"Añade nuevo problema",
+
+    "filter":"Filtrar por titulo",
+    "title":"Titulo",
+    "description":"Descripción",
+    "severity":"Gravedad",
+    "status":"Estado",
+    "assignee":"Asignado",
+    "stringMaxLength":"Introduce menos de 10 characters.",
+
+    "username":"Nombre usuario:",
+    "password":"Contraseña:",
+    "loginTitle":"Login",
+    "loginButton":"Login",
+    "logOutButton":"LogOut",
+    "loginExplanation":"Usa el usuario de prueba-> usuario:user constraseña:pass",
+    "notAllowebViewPage":"No tienes acceso a esta página, por favor logueate",
+
+    "notificationIssueCreatedTitle":"Nuevo problema creado",
+    "notificationIssueCreated":"Nuevo problema creado",
+
+    "notificationError":"Error",
+    "notificationLoginError":"El usuario y la contraseña no coinciden",
+
+    "AppTitle1":"ISSUE",
+    "AppTitle2":"ISSUE LIST!",
+    "AppSubTitle1":"Fantastica ",
+    "AppSubTitle2":"Fantastica IssueList!",
+    "AppSubTitle3":"Fantastica IssueList! Empieze a crear problemas 👋"
+}

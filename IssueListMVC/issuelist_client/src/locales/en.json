@@ -1,0 +1,40 @@
+{
+    "welcomeMsg": "Welcome to Your Vue.js App",
+    "guide": "Para una guía y recetas sobre cómo configurar / personalizar este proyecto,",
+    "checkout": "revisar la",
+    "plugins": "Plugins de CLI instalados",
+    "links": "Enlaces esenciales",
+    "ecosystem": "Ecosistema",
+    "delete":"Delete",
+    "deleteIssue":"Issue removed",
+    "buttonIssueAdd":"Add new issue",
+
+    "filter":"Title filter:",
+    "title":"Title",
+    "description":"Description",
+    "severity":"Severity",
+    "status":"Status",
+    "assignee":"Asignee",
+    "stringMaxLength":"Enter 10 characters max.",
+
+    "username":"User name:",
+    "password":"Password:",
+    "loginTitle":"Login",
+    "loginButton":"Login",
+    "logOutButton":"LogOut",
+    "loginExplanation":"Use test user for login-> username:user password:pass",
+    "notAllowebViewPage":"You do not have access to this page, please log in",
+
+    "notificationIssueCreatedTitle":"New issue",
+    "notificationIssueCreated":"New issue created",
+
+
+    "notificationError":"Error",
+    "notificationLoginError":"Username and password not match", 
+
+    "AppTitle1":"ISSUE",
+     "AppTitle2":"ISSUE LIST!",
+     "AppSubTitle1":"Awesome ",
+     "AppSubTitle2":"Awesome IssueList!",
+     "AppSubTitle3":"Awesome IssueList! Start creating issues 👋"
+}
